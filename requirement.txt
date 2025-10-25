@@ -1,0 +1,3 @@
+gradio
+librosa
+cn2an
